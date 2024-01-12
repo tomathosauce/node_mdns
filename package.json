@@ -86,7 +86,7 @@
   "gypfile": true,
   "binary": {
     "module_name": "mdns",
-    "module_path": "./",
+    "module_path": "./build",
     "host": "https://github.com/tomathosauce/node_mdns/releases/download/v{version}",
     "package_name": "{name}-v{version}-{platform}-{arch}.tar.gz"
   }
